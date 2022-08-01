@@ -1,3 +1,10 @@
+# Demo
+https://practice-react-weather-app.herokuapp.com/
+
+# API used
+https://rapidapi.com/wirefreethought/api/geodb-cities
+https://openweathermap.org/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
