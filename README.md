@@ -1,3 +1,5 @@
+A ReactJS practice. Followed [React JS Tutorial – Build a Weather App With Cities Autocomplete](https://www.youtube.com/watch?v=Reny0cTTv24) tutorial.
+
 # Demo
 https://practice-react-weather-app.herokuapp.com/
 
